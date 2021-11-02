@@ -1,0 +1,53 @@
+
+    .meuNome{
+        font-family: 'Times New Roman', Times, serif;
+        text-align: center;
+
+    }
+    #minhaDescrição {
+        font-family:Verdana;
+        font-size: 18px;
+        margin: 115px;
+        text-align: justify;
+       
+    }
+    body {
+        background-color:lightgrey;
+    }
+    .proativo {
+        font-size:  18px;
+    }
+    .comunicativo{
+       font-size:  19px;
+    }
+    .assertivo{
+        font-size: 20px;
+    }
+    .engajado{
+        font-size: 21px;
+    }
+    #minhafoto {
+        float: left;
+        height: 270px;
+        padding: 10px;
+        background-color: darkslateblue;
+        border-radius: 100%;
+        margin: 5px;
+    }
+    .imagemDescrição{
+        height: 300px;
+       overflow: auto; 
+    }
+    #listaHabilidades li:nth-child(odd) {
+        background-color: darkslateblue;
+        width: 100px;
+        color: white;
+
+    }    
+    
+
+    
+        
+
+
+
